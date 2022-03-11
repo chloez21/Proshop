@@ -27,6 +27,7 @@
   },
   "devDependencies": {
     "concurrently": "^7.0.0",
-    "nodemon": "^2.0.15"
+    "nodemon": "^2.0.15",
+    "engines": { "node": ">=12.19.0" }
   }
 }
